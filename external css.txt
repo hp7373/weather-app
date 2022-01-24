@@ -1,0 +1,9 @@
+<html>
+<head> 
+<link rel="stylesheet" href="C:\Users\M HARI PRIYA\Desktop\style1.css">
+</head>
+<body>
+    <h> Welcome to NGIT</h>
+    <p>This is web application development</p>
+</body>
+</html>
